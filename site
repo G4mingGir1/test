@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title> Curriculum Vitae </title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h2> Voici un canevas de CV que vous pouvez utiliser. </h2>
+        <p> Dans un premier temps, vous devez remplir la partie Informations
+            Personnelles. </p>
+        <p> Dans un deuxième temps, vous devez remplir la partie Compétences. </p>
+        <p> Dans un troisième temps, vous devez remplir la partie Informations
+            Complémentaires. </p>
+        <h2> Voici ce que vous devriez mettre dans votre curriculum vitae. </h2>
+        <h3> <b> Informations Personnelles </b> </h3>
+        <p> Dans cette partie, vous devez y inscrire votre nom et 
+            votre prénom, votre adresse personnelle, votre code postal et la 
+            ville, la pays, votre adresse courriel, votre numéro de téléphone 
+            et votre âge, qui n'est pas obligatoire. <p>
+        <h3> <b> Compétences </b> </h3>
+        <p> Dans cette partie-ci, vous devez inscrire les études que vous avez
+            faites jusqu'à date dans votre vie et les diplômes que vous avez
+            obtenus jusqu'à présent, si possible, avec les mois et les années 
+            respectives. Vous devez aussi écrire vos emplois précédents (vos
+            expériences de travail) et écrire tous les langues que vous parlez,
+            écrivez et lisez. </p>
+        <h3> <b> Informations Complémentaires </b> </h3>
+        <p> Dans cette partie de votre CV, vous devez marquer quels sont vos 
+            loisirs, vos passions, les sports ou activités que vous aimez ou que
+            vous faites et des évènements qui bonifie votre CV, par exemple,
+            avoir participer à un voyage humanitaire, avoir été dans les top 5
+            en français en secondaire 5, etc.
+        <h2> Voici un exemple de ce à quoi votre CV pourrait ressembler! </h2>
+        <img src="Image/prog.jpg"
+             alt="Exemple de CV"
+             width="400"
+             height="500">
+        </body>  
+</html>
